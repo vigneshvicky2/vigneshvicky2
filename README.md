@@ -1,4 +1,4 @@
-Hey there! :D
+Hey there! :)
 
 I'm vignesh,mostly known on the internet as software tester in micromax community,a 18 years old student from india,I'm currently purshing my second bachelor degree at vsb engineering college at karur in the steam of artificial intelligence and data science(ai&ds).
 
