@@ -1,7 +1,62 @@
-Hey there! :)
+# 👋 Hey there, I'm Vignesh!
 
-I'm vignesh,mostly known on the internet as software tester in micromax community,a 20 years old student from india,I'm currently purshing my third bachelor degree at vsb engineering college at karur in the steam of artificial intelligence and data science(ai&ds).
+I'm a 20-year-old **AI & Data Science** student from Karur, India, currently pursuing my third year at **VSB Engineering College**. Passionate about technology and driven by curiosity, I’m mostly known online as a **software tester in the Micromax community** — where I actively contribute by testing Android OS and helping improve the user experience.
 
-I have always been fascinated by technology and software development, which is why I am thrilled to be a part of the Micromax community and to be able to test Android OS. As a student, I am constantly looking for ways to improve myself and learn new things, and my involvement in this community is a great way for me to do just that. When I'm not busy testing Android OS, I enjoy spending time with my friends and pursuing my hobbies.
+---
 
-Whether it's playing sports, listening to music, or reading a good book, I always make time for the things that I love. Overall, I am a motivated and enthusiastic individual who is passionate about technology and software development. I am grateful for the opportunities that the Micromax community has provided me and look forward to contributing to its success in any way that I can.
+## 💻 About Me
+
+- 🎓 AI & Data Science (AI&DS) Undergraduate  
+- 🧪 Android OS Tester @ Micromax Community  
+- 🌱 Constantly learning and exploring new technologies  
+- 🔧 Passionate about software development, backend systems, and open-source  
+- 🧠 Strong believer in continuous growth and hands-on experience  
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages:**  
+Python, Java, JavaScript, C++
+
+**Frontend Development:**  
+HTML, CSS, Bubble.io, React.js, Next.js, Git, GitHub
+
+**Backend Development:**  
+Spring Boot, Flask
+
+**Databases & Tools:**  
+SQL, NoSQL (MongoDB), H2 Database, Postman, Google Colab, Kaggle
+
+---
+
+## 🚀 Skills & Interests
+
+- **Languages:** Python, Java  
+- **Domains:** Backend Development, Machine Learning, Data Analysis  
+- **Tools & Tech:** Spring Boot, FastAPI, SQL, Git, Android Debugging  
+- **Other Interests:**  
+  - 📚 Reading  
+  - 🏏 Playing Sports  
+  - 🎧 Listening to Music  
+
+---
+
+## 🌟 What I'm Grateful For
+
+Being part of the **Micromax community** has given me a platform to contribute, learn, and grow. It’s a space that inspires me to stay curious and keep building. I’m excited about the journey ahead and the impact I can make in the tech world.
+
+---
+
+## 📫 Let’s Connect!
+
+I'm always open to opportunities, collaborations, or even a good tech chat!  
+Feel free to reach out via:
+
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/vignesh-k-357b45265/)  
+- 🧑‍💻 GitHub: [github.com/your-username](https://github.com/vigneshvicky2)
+
+---
+
+> “Stay curious, keep building, and never stop learning.” 🚀
