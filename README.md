@@ -23,7 +23,7 @@ I'm a 20-year-old **AI & Data Science** student from **VSB Engineering College**
 
 ## 📫 Let’s Connect!
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: vicky2004karishma2009@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/vignesh-k-357b45265](https://www.linkedin.com/in/vignesh-k-357b45265/)  
 - 🧑‍💻 GitHub: [github.com/vigneshvicky2](https://github.com/vigneshvicky2)
 
