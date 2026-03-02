@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Vignesh!
 
-I'm a 20-year-old **AI & Data Science** student from **VSB Engineering College**, India. Passionate about leveraging new technologies, I’m known as a **software tester in the Micromax community**, where I contribute to Android OS testing. I'm a **tech enthusiast** always exploring new tools, frameworks, and technologies to enhance my skills.
+I'm a 21-year-old **AI & Data Science** student from **VSB Engineering College**, India. Passionate about leveraging new technologies, I’m known as a **software tester in the Micromax community**, where I contribute to Android OS testing. I'm a **tech enthusiast** always exploring new tools, frameworks, and technologies to enhance my skills.
 
 ---
 
