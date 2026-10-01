@@ -7,7 +7,7 @@ I'm a 21-year-old **AI & Data Science** student from **VSB Engineering College**
 ## 💻 About Me
 
 - **AI & Data Science** (AI&DS) Undergraduate  
-- **Android OS Tester** @ Micromax Community  
+- **Android OS Tester** @ Micromax Community  & @ Poco Community
 - Passionate about **backend systems**, **open-source**, **continuous learning**, and **tech innovations**  
 
 ---
